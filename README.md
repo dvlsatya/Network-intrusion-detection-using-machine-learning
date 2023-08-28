@@ -10,7 +10,7 @@ In recognition of the rising threat panorama, the development of effective IDS h
 
 **Classifier Training and Testing:** At the core of the IDS lies the training and testing of classifiers. Three primary classifiers—Naive Bayes, Decision Tree, and K-Nearest Neighbours—are employed to assess the dataset and make predictions.
 
-**Used Machine learning Algorithms:
+Used Machine learning Algorithms:
 
 
 Decision Tree
