@@ -15,4 +15,4 @@ Exploratory Data Analysis (EDA): This phase involves a deep dive into the datase
 
 Classifier Training and Testing: At the core of the IDS lies the training and testing of classifiers. Three primary classifiers—Naive Bayes, Decision Tree, and K-Nearest Neighbours—are employed to assess the dataset and make predictions.
 
-AAcheived accuracy :  99.4% ( Decision Tree classifier)
+Acheived accuracy :  99.4% ( Decision Tree classifier)
