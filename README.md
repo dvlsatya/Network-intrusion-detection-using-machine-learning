@@ -12,7 +12,10 @@ In recognition of the rising threat panorama, the development of effective IDS h
 
 **Used Machine learning Algorithms:
 Decision Tree
+
 Naive Bayes
+
+
 KNN( K-Nearest -Neighbour)**
 
 Acheived accuracy :  99.4% ( Decision Tree classifier)
