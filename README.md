@@ -9,10 +9,10 @@ Host-based Intrusion Detection Systems (HIDS): Functioning at the level of end-u
 
 In recognition of the rising threat panorama, the development of effective IDS has become a necessity. The implementation process typically unfolds in four sequential stages:
 
-Data Loading and Preprocessing: The initial phase entails the collection of data, followed by meticulous preprocessing to ensure data quality while eliminating redundancy.
+**Data Loading and Preprocessing**: The initial phase entails the collection of data, followed by meticulous preprocessing to ensure data quality while eliminating redundancy.
 
-Exploratory Data Analysis (EDA): This phase involves a deep dive into the dataset, uncovering insights, patterns, and statistical attributes. EDA aids in comprehending the dataset's structure and identifying potential features for analysis.
+**Exploratory Data Analysis (EDA)**: This phase involves a deep dive into the dataset, uncovering insights, patterns, and statistical attributes. EDA aids in comprehending the dataset's structure and identifying potential features for analysis.
 
-Classifier Training and Testing: At the core of the IDS lies the training and testing of classifiers. Three primary classifiers—Naive Bayes, Decision Tree, and K-Nearest Neighbours—are employed to assess the dataset and make predictions.
+**Classifier Training and Testing:** At the core of the IDS lies the training and testing of classifiers. Three primary classifiers—Naive Bayes, Decision Tree, and K-Nearest Neighbours—are employed to assess the dataset and make predictions.
 
 Acheived accuracy :  99.4% ( Decision Tree classifier)
